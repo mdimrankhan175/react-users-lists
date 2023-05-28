@@ -1,0 +1,31 @@
+.list-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: solid cyan 3px;
+  border-radius: 10px;
+  height: 95vh;
+  background-image: url('https://res.cloudinary.com/dbelvmspz/image/upload/v1677982853/bg8_ngo75o.jpg');
+  background-size: cover;
+}
+.heading {
+  color: #ffffff;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: solid pink 2px;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.title {
+  font-family: 'Roboto';
+  font-size: 32px;
+  color: #183b56;
+  margin-bottom: 30px;
+}
